@@ -6,8 +6,8 @@
 5.html - table,tr,td-table,tableRow,tableData
 6.html - img width,img height,br-Image width,height,line break   
 7.html - alt-alternate text if image not present    
-8.html - style-style attribute to change color of text
-9.html - div height is changed
-10.html - div height is 100px
-11.html - div width in %, div height in pixels
+8.html - style-style attribute to change color of text   
+9.html - div height is changed     
+10.html - div height is 100px     
+11.html - div width in %, div height in pixels      
 12.html - style tag within head. class=theme1 defined within style tag    
