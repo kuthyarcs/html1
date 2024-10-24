@@ -6,3 +6,4 @@
 5.html - table,tr,td-table,tableRow,tableData
 6.html - img width,img height,br-Image width,height,line break   
 7.html - alt-alternate text if image not present    
+8.html - style-style attribute to change color of text      
