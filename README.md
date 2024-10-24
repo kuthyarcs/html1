@@ -4,4 +4,5 @@
 3.html - ol,ul,li-ordered list,unordered list,list item   
 4.html - img src-image source.width,height of images to adjusted   
 5.html - table,tr,td-table,tableRow,tableData
-6.html - img width,img height,br-Image width,height,line break      
+6.html - img width,img height,br-Image width,height,line break   
+7.html - alt-alternate text if image not present    
